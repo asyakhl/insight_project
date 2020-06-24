@@ -1,2 +1,4 @@
 realdata/**
 .ipynb_checkpoints
+__pycache__
+spark-warehouse
